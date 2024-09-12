@@ -1,0 +1,2 @@
+/usr/bin/ar qc libroc_base.a CMakeFiles/roc_base.dir/text.cpp.o
+/usr/bin/ranlib libroc_base.a

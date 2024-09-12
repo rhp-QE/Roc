@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/root/project/roc/build",
+  "command": "/usr/bin/c++ -DGFLAGS_IS_A_DLL=0 -DGLOG_USE_GFLAGS -DGLOG_USE_GLOG_EXPORT -I/root/project/roc -isystem /root/tools/vcpkg/installed/x64-linux/include -g -std=gnu++20 -o CMakeFiles/roc.dir/main.cpp.o -c /root/project/roc/main.cpp",
+  "file": "/root/project/roc/main.cpp"
+},
+{
+  "directory": "/root/project/roc/build",
+  "command": "/usr/bin/c++ -DGFLAGS_IS_A_DLL=0 -DGLOG_USE_GFLAGS -DGLOG_USE_GLOG_EXPORT -I/root/project/roc -isystem /root/tools/vcpkg/installed/x64-linux/include -g -std=gnu++20 -o CMakeFiles/roc.dir/test.cpp.o -c /root/project/roc/test.cpp",
+  "file": "/root/project/roc/test.cpp"
+},
+{
+  "directory": "/root/project/roc/build",
+  "command": "/usr/bin/c++ -I/root/project/roc -g -std=gnu++20 -o base/CMakeFiles/roc_base.dir/text.cpp.o -c /root/project/roc/base/text.cpp",
+  "file": "/root/project/roc/base/text.cpp"
+}
+]
